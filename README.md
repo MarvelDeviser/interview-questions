@@ -4,6 +4,8 @@ List of Interview Questions
 ===========================
 This list is intended to be used as a study resource for students preparing for interviewing. Please consider contributing answers and additional questions to the list.
 
+To see the questions, click above in any of the markdown (`.md`) files to see the questions from a given category
+
 ### Why take the time to contribute?
 V School's alumni should be a community where everyone is helping each other. The goal is to find employment that you can be excited to go to each day, and your contribution to this open source project will help us create a resource, available to everyone, that helps others reach their career goals.
 
