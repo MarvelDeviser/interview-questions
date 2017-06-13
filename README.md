@@ -27,4 +27,4 @@ If you'd like to update this document to include answers to some of the existing
 * Make sure to put your question into the correct file based on the category it covered.
     * If you can't decide on which category it should fit in to, you may either decide to create a new file representing that new category, or put the question in the `general-questions.md` file.
 
-Thanks for your continuing help in keeping this list updated!
+Thanks for your continuing help in keeping this list updated! Please consider watching and/or starring this repo.
