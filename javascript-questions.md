@@ -32,3 +32,6 @@
 * What is the difference between a callback and promise?
 * What is the difference between Let, Const, and Var? When would you use each?
 * What does Class do?
+* What is the difference between let and var?
+* How does inheritance work in JavaScript classes?
+* Describe how the keyword "this" behaves differently with fat arrow functions. 
